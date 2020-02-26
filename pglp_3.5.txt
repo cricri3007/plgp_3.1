@@ -1,6 +1,5 @@
 3.5   
 1) SRP est violé car la classe contient deux méthodes, ce qui ca a l'encontre de "single responsability protocol"
-3) SRP sera toujours violé car il y aura toujours deux plusieurs méthodes ET
+2) Si la methode de calcul change, toute la classe change.
+3) SRP sera toujours violé car il y aura toujours deux méthodes dans une seule classe.
 4) On créé deux classes, chacune avec sa responsabilité, un qui affiche, un qui calcule.
-
-Spellforce1estlemeilleur
